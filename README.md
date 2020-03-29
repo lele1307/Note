@@ -1,2 +1,1 @@
-# Note
-Personal study notes
+# Study Notes
